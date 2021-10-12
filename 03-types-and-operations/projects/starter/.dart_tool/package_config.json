@@ -2,14 +2,20 @@
   "configVersion": 2,
   "packages": [
     {
+      "name": "characters",
+      "rootUri": "file:///Users/duchainguyen/.pub-cache/hosted/pub.dartlang.org/characters-1.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
       "name": "meta",
-      "rootUri": "file:///Users/n382213/.pub-cache/hosted/pub.dartlang.org/meta-1.2.2",
+      "rootUri": "file:///Users/duchainguyen/.pub-cache/hosted/pub.dartlang.org/meta-1.2.2",
       "packageUri": "lib/",
       "languageVersion": "1.12"
     },
     {
       "name": "pedantic",
-      "rootUri": "file:///Users/n382213/.pub-cache/hosted/pub.dartlang.org/pedantic-1.9.2",
+      "rootUri": "file:///Users/duchainguyen/.pub-cache/hosted/pub.dartlang.org/pedantic-1.9.2",
       "packageUri": "lib/",
       "languageVersion": "2.1"
     },
@@ -17,10 +23,10 @@
       "name": "starter_project",
       "rootUri": "../",
       "packageUri": "lib/",
-      "languageVersion": "2.8"
+      "languageVersion": "2.12"
     }
   ],
-  "generated": "2020-09-08T14:30:00.459500Z",
+  "generated": "2021-10-10T10:08:59.517524Z",
   "generator": "pub",
-  "generatorVersion": "2.9.1"
+  "generatorVersion": "2.14.3"
 }
